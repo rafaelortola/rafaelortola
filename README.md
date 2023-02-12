@@ -1,6 +1,7 @@
 ### Olá, meu nome é Rafael Ortolá 👽😉
 
 🌱 Estou aprendendo... - <i><b> playwright framework </b></i>
+</br>
 🎮 Gosto de jogar - <i><b>League of Legends, Valorant e CS:GO </b></i>
 
 <!--
