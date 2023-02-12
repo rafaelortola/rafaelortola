@@ -1,7 +1,7 @@
 ### Olá, meu nome é Rafael Ortolá 👽😉
 
-- 🌱 Estou aprendendo... - <i><b> playwright framework </b></i>
-- 🎮 Gosto de jogar - <i><b>League of Legends, Valorant e CS:GO </b></i>
+🌱 Estou aprendendo... - <i><b> playwright framework </b></i>
+🎮 Gosto de jogar - <i><b>League of Legends, Valorant e CS:GO </b></i>
 
 <!--
 **rafaelortola/rafaelortola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
