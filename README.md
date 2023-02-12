@@ -1,4 +1,4 @@
-### Olá, meu nome é Rafael Ortolá 👽😉
+### Olá, meu nome é <a href="https://www.linkedin.com/in/rafael-ortol%C3%A1-8475659b/"> Rafael Ortolá </a> 👽😉
 
 🌱 Estou aprendendo... - <i><b> playwright framework </b></i>
 </br>
