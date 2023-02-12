@@ -24,15 +24,7 @@ Atuo como <b>QA</b>😝, sou Flamenguista ⚫🔴, gosto de games e de tecnologi
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
- ![image](https://user-images.githubusercontent.com/38668576/218291489-a4d9c5bb-7759-4d67-8712-3d969f76575a.png)
 
-          
-          
-          
-          
-          
-          
-   
 </div>
 
 </br>
