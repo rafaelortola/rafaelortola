@@ -2,7 +2,7 @@
 
 <h5> "Atuo como <b>QA</b>😝, sou Flamenguista ⚫🔴, gosto de games e de tecnologia." </h5>
 
-</br>
+<hr>
 
 ### 🛸Meu momento...
  <div>
