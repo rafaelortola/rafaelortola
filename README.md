@@ -13,6 +13,8 @@
 🔭 Atualmente estou trabalhando no <i><b>C6 Bank</b></i>
 </div>
 
+<hr>
+
 </br>
 
 ### 🛸Minhas redes sociais
