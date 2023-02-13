@@ -28,7 +28,7 @@ Atuo como <b>QA</b>😝, sou Flamenguista ⚫🔴, gosto de games e de tecnologi
 
 </br>
 
- ### 🚩 Skills
+ ### 🚩Skills
 <div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -51,7 +51,7 @@ Atuo como <b>QA</b>😝, sou Flamenguista ⚫🔴, gosto de games e de tecnologi
 
 </br>
 
-### 🚩 Status
+### 🚩Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelortola&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelortola&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
