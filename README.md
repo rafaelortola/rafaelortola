@@ -2,12 +2,16 @@
 
 Atuo como <b>QA</b>😝, sou Flamenguista ⚫🔴, gosto de games e de tecnologia.
 
+</br></br>
+
  
 🌱 Estou aprendendo... - <i><b> playwright framework </b></i>
 </br>
 🎮 Gosto de jogar - <i><b>League of Legends, Valorant e CS:GO </b></i>
 </br>
 🔭 Atualmente estou trabalhando no <i><b>C6 Bank</b></i>
+
+</br>
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
