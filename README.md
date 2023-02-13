@@ -2,7 +2,7 @@
 
 Atuo como <b>QA</b>😝, sou Flamenguista ⚫🔴, gosto de games e de tecnologia.
 
-</br></br>
+</br>
 
  
 🌱 Estou aprendendo... - <i><b> playwright framework </b></i>
