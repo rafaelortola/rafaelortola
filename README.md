@@ -4,7 +4,7 @@ Atuo como <b>QA</b>😝, sou Flamenguista ⚫🔴, gosto de games e de tecnologi
 
 </br>
 
- <div>
+ <div style="color: red;">
 🌱 Estou aprendendo... - <i><b> playwright framework </b></i>
 </br>
 🎮 Gosto de jogar - <i><b>League of Legends, Valorant e CS:GO </b></i>
