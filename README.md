@@ -1,6 +1,6 @@
 ### Olá, meu nome é <a href="https://www.linkedin.com/in/rafael-ortol%C3%A1-8475659b/"> Rafael Ortolá! </a> 👽😉
 
-<h2> "Atuo como <b>QA</b>😝, sou Flamenguista ⚫🔴, gosto de games e de tecnologia." </h2>
+<h5> "Atuo como <b>QA</b>😝, sou Flamenguista ⚫🔴, gosto de games e de tecnologia." </h5>
 
 </br>
 
