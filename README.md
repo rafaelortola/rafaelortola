@@ -2,8 +2,6 @@
 
 <h5> "Atuo como <b>QA</b>😝, sou Flamenguista ⚫🔴, gosto de games e de tecnologia." </h5>
 
-</br>
-
 ### 🛸Meu momento...
  <div>
 🌱 Estou aprendendo... - <i><b> playwright framework </b></i>
