@@ -10,7 +10,7 @@
 </br>
 🎮 Gosto de jogar - <i><b>League of Legends, Valorant e CS:GO </b></i>
 </br>
-🔭 Atualmente estou trabalhando no <i><b>C6 Bank</b></i>
+🔭 Atualmente estou trabalhando como <i><b>PJ</b></i>
 </div>
 
 <hr>
